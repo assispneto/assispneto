@@ -1,6 +1,5 @@
 ## Hello world, me chamo Assis Paiva Neto!!!
  
-- 📊 Estudando Python e Machine Learning
 - 🤖 Cursando Engenharia de Computação (UFC)
 - 🚀 Startupeiro
 - 🥋 Judoca, faixa preta 1° dan
